@@ -1,5 +1,3 @@
-# Simple Animated Landing Page Design
+# Check out my portfolio 
 
-A responsive animated landing page design built with CSS  
-
-**Live:** https://enipx.github.io/
+**Live:** https://www.enipx.com/
